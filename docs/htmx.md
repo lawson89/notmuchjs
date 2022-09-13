@@ -21,11 +21,10 @@ html attributes. Htmx emphasizes:
 2. Progressive enhancement
 3. [Locality of behaviour](https://htmx.org/essays/locality-of-behaviour/)
 
-
-|Links ||
+|||
 |---|---|
-|[htmx.org](https://htmx.org)| [github](https://github.com/bigskysoftware/htmx) ![](https://img.shields.io/github/stars/bigskysoftware/htmx.svg)|
-
+|Project site| [htmx.org](https://htmx.org)|
+|Repository | [github](https://github.com/bigskysoftware/htmx) ![](https://img.shields.io/github/stars/bigskysoftware/htmx?style=social)|
 
 ## Example code
 
