@@ -1,1 +1,24 @@
-site_name: My Docs
+site_name: Not Much Js
+site_url: https://notmuchjs.info
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.indexes
+
+#nav:
+#  - Home:
+#      - index.md
+#      - 'Htmx' : htmx.md
+#      - intercooler.md
+#      - liveview.md
+#      - unpoly.md
+#
+#  - htmx.md
+#  - intercooler.md
+#  - liveview.md
+#  - unpoly.md
+
