@@ -1,3 +1,7 @@
+---
+hide:
+- navigation
+---
 # Unpoly
 
 @todo

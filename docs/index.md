@@ -1,6 +1,6 @@
 ---
 hide:
-  - navigation
+- navigation
 ---
 
 # Welcome to NotMuchJs
@@ -8,8 +8,7 @@ hide:
 You don't need a SPA to have a great looking and functional webapp.
 
 Whether you are a backend developer, a solopreneur or just someone looking to
-save time - there are more robust options for low/no js are available than ever
-before.
+save time - there are more robust options for low/no js than ever before.
 
 ## What is low/no js?
 
@@ -24,9 +23,9 @@ greater than your back end to your front end. You've just doubled your workload!
 There is another way. First browsers have gotten much faster and so with small
 payloads the user experience is almost instantaneous. Second, a new set of
 frameworks has been developed that extend html to allow many SPA like
-functionalities to be accomplished through markup. Third, framework such as
-Phoenix LiveView use persistent connections such as websockets to stream updates
-to the browser.
+functionalities to be accomplished through markup. Third, frameworks such as
+Phoenix LiveView popularized the use of persistent connections such as
+websockets to stream updates to the browser.
 
 ## Common factors
 
