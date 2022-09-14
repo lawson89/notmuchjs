@@ -40,18 +40,14 @@ Flask)
 
 ## Example code
 
-The use of attributes to trigger an Ajaz action is seen below (taken from
-htmx [introduction](https://htmx.org/docs/#introduction))
+The use of attributes to trigger an Ajax action is seen below (taken from
+intercooler [introduction](https://htmx.org/docs/#introduction))
 
 ```html
-
-<button hx-post="/clicked"
-        hx-trigger="click"
-        hx-target="#parent-div"
-        hx-swap="outerHTML"
->
+  <!-- This anchor tag posts to '/click' when it is clicked -->
+  <a ic-post-to="/click">
     Click Me!
-</button>
+  </a>
 ```
 
 When a user clicks on this button, issue an HTTP POST request to `/clicked` and
