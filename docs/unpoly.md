@@ -29,7 +29,7 @@ agency.
 
 ## Consider If
 
-:octicons-checkbox-24: You can make sue of the pre-built functionality, especially layers
+:octicons-checkbox-24: You can make use of the pre-built functionality, especially layers
 
 :octicons-checkbox-24: A backend agnostic framework is important
 
