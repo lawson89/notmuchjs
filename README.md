@@ -1,5 +1,7 @@
 ## Overview
 
+Write less js, get more done!
+
 You don't need a SPA to have a great looking and functional webapp.
 
 Whether you are a backend developer, a solo entrepreneur or just someone looking to
