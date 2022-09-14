@@ -7,12 +7,13 @@ hide:
 
 # Htmx
 
-## Overview
+## Introduction
 
 [Htmx](https://htmx.org) is a relatively new project but was born out of
-experience gained with a previous project - intercooler. Htmx is framework
-agnostic but has been enthusiastically embraced by the Python (and particularly)
-the Django community.
+experience gained by founder Caron Gross with a previous project - intercooler.
+Htmx is framework agnostic but has been enthusiastically embraced by the
+Python (and particularly) the Django community. It has grown quickly in
+popularity over the last year.
 
 At it's core htmx allows access to ajax, css transitions, websockets and SSE via
 html attributes. Htmx emphasizes:
@@ -21,10 +22,21 @@ html attributes. Htmx emphasizes:
 2. Progressive enhancement
 3. [Locality of behaviour](https://htmx.org/essays/locality-of-behaviour/)
 
+## At a glance
+
 |||
 |---|---|
-|Project site| [htmx.org](https://htmx.org)|
-|Repository | [github](https://github.com/bigskysoftware/htmx) ![](https://img.shields.io/github/stars/bigskysoftware/htmx?style=social)|
+|Project site| [htmx.org](https://htmx.org) |
+| License | BSD 2-Clause "Simplified" License |
+|Repository | [github.com/bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) |
+| Stars | ![](https://img.shields.io/github/stars/bigskysoftware/htmx?style=social) |
+
+## Consider If
+
+:octicons-checkbox-24: A backend agnostic framework is important
+
+:octicons-checkbox-24: You can take advantage of pre-built integrations (Django,
+Flask)
 
 ## Example code
 
