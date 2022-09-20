@@ -61,7 +61,7 @@ Please help to add more!
 | Framework         | Link  |  
 |--------------|------------|
 | Django | [django-htmx](https://django-htmx.readthedocs.io/en/latest/)      | 
-| Django | [django-htmx-patterns] (https://github.com/spookylukey/django-htmx-patterns) |
+| Django | [django-htmx-patterns](https://github.com/spookylukey/django-htmx-patterns) |
 | Flask  | [flask-htmx](https://pypi.org/project/flask-htmx/) |
 
 *The resources below are not meant to be exhaustive but to give you a sense of the framework*
