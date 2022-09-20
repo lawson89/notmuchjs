@@ -61,7 +61,17 @@ Please help to add more!
 | Framework         | Link  |  
 |--------------|------------|
 | Django | [django-htmx](https://django-htmx.readthedocs.io/en/latest/)      | 
-| Flask  | [flask-htmx](https://pypi.org/project/flask-htmx/)
+| Django | [django-htmx-patterns] (https://github.com/spookylukey/django-htmx-patterns) |
+| Flask  | [flask-htmx](https://pypi.org/project/flask-htmx/) |
+
+*The resources below are not meant to be exhaustive but to give you a sense of the framework*
+
+## Articles
+- [https://www.mattlayman.com/blog/2021/how-to-htmx-django/](https://www.mattlayman.com/blog/2021/how-to-htmx-django/)
+
+## Podcasts
+Podcasts on [Htmx Talk](https://htmx.org/talk/) - scroll to bottom
+
 
 ## Courses
 
@@ -69,7 +79,7 @@ Please help to add more!
 |--------------|------------|----------------|
 | HTMX + Flask: Modern Python Web Apps, Hold the JavaScript Course | [Talk Python](https://training.talkpython.fm/courses/htmx-flask-modern-python-web-apps-hold-the-javascript)     | $ |
 
-## Articles
+
 
 
 
